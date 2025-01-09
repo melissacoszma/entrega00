@@ -34,6 +34,8 @@ Algunas imágenes del proceso:
 ![placeholder](/img/img-1.jpg)
 ![placeholder](/img/img-2.jpg)
 ![placeholder](/img/img-3.jpg)
+![placeholder](/img/img-4.jpg)
+![placeholder](/img/img-5.jpg)
 
 
-
+Gracias :)
